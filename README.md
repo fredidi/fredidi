@@ -51,3 +51,7 @@
 <a href="https://github.com/fredidi"><img src="https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white" /></a>
 <a href="https://github.com/fredidi"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /></a>
 <a href="https://github.com/fredidi"><img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" /></a>
+
+### 🔥 Stats
+<a href="https://github.com/fredidi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fredidi&theme=dark" /></a>
+
